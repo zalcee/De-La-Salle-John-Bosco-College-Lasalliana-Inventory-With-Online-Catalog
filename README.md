@@ -1,5 +1,13 @@
 # De La Salle John Bosco College Lasalliana Inventory with Online Catalog
 
+Capstone Project
+
+#Members
+
+Zalcee Songodanan - Programmer
+Andre Cua Olvis - System Analyst
+Annaliza Acevedo - Project Manager
+Dominic Cruiz - Technical Writer
 
 # Installation Guide
 
@@ -64,6 +72,7 @@ The first thing you need to do is to make sure you are connected to the Local Ar
 2. Type in first the IP address of the server (for ex. 192.168.254.100/online_catalog), and hit enter. It will lead to this Downloadable page. There’s an instruction for downloading the app. Click the android logo to download.
 3. Click install to install the application. Make sure you have free space of atleast 3.18 mb.
 4. And now you can open and use the Android App.
+
 
 
 
