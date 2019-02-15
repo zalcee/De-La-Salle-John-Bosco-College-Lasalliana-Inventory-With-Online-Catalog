@@ -1,0 +1,76 @@
+body {
+		background-color: blue;
+	}
+
+
+	   .img_ {
+    	display: none;
+    }
+    
+
+	#printD table {
+		width: 30px;
+	}
+	#printD p {
+		color: red;
+	}
+
+	#clickprint {
+		display: none;
+	}
+}
+
+#printD tr {
+	border: 20px solid red;
+
+}
+
+
+
+
+
+#user-container {
+	display: none;
+}
+
+#user-container h1 {
+	display: none;
+}
+
+#head_tag {
+	display: none;
+}
+
+input[type="button"] {
+	display: none;
+}
+
+.print {
+	display: none;	
+}
+
+button {
+	display: none;
+}
+
+
+
+    img {
+    	display: none;
+    }
+
+tr {
+	page-break-inside: avoid !important;
+} 
+thead {display: table-header-group;}
+tfoot {display: table-header-group;}
+
+ table { page-break-inside:auto }
+    tr    { page-break-inside:avoid; page-break-after:auto }
+    thead { display:table-header-group }
+    tfoot { display:table-footer-group }
+
+    table { page-break-inside:auto }
+tr { page-break-inside:avoid; page-break-after:auto }
+thead { display:table-header-group }
+tfoot { display:table-footer-group }

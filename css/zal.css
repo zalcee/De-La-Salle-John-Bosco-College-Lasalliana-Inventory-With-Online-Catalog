@@ -1,0 +1,25 @@
+
+.list-container {
+	position: none;
+	width: 90%;
+	overflow: hidden;
+	background: skyblue;
+	margin:40px auto;
+	padding: 20px;
+}
+
+.list-container ul {
+	z-index: 1;
+	padding: 0px;
+	margin:0px;
+
+}
+
+.list-container ul li {	
+	list-style: none;
+	float: left;
+	width: 20%;
+	height: 100px;
+	background: red;
+	margin:100px 40px 0px 55px;
+}
