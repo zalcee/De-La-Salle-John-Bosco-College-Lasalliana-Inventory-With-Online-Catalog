@@ -5,8 +5,11 @@ Capstone Project
 #Members
 
 Zalcee Songodanan - Programmer
+
 Andre Cua Olvis - System Analyst
+
 Annaliza Acevedo - Project Manager
+
 Dominic Cruiz - Technical Writer
 
 # Installation Guide
